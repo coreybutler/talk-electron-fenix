@@ -2,9 +2,9 @@
 
 [![Deploy on Fenix](https://cdn.author.io/fenix/smallbadge.png)](https://goo.gl/6LdPZw)
 
-When: March 22, 2017
-Livestream: https://www.youtube.com/results?search_query=bleeding+edge+web
-Meetup: https://www.meetup.com/bleeding-edge-web/events/238430935/
+- When: March 22, 2017
+- Livestream: [YouTube Archive](https://www.youtube.com/results?search_query=bleeding+edge+web)
+- [Meetup Event Page](https://www.meetup.com/bleeding-edge-web/events/238430935/)
 
 ### Synopsis
 
