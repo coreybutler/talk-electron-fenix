@@ -37,68 +37,8 @@
   <script type="text/javascript" src="../../shared/resources/js/microlight.js"></script>
 
   <style>
-    .title-cyan {
-      background: #d15dd1 !important;
-    }
-    p {
-      color: #ffffff;
-    }
-
-    .bugs > tbody > tr > th {
-      background-color: rgba(255,255,255,.15) !important;
-      color: gold !important;
-      text-align: left !important;
-    }
-    .bugs > tbody > tr > th, .bugs > tbody > tr > td, .bugs > tbody {
-      padding: 10px !important;
-      border: 2px solid rgba(255,255,255,.15) !important;
-    }
-    .bugs > tbody > tr > td:nth-of-type(2), .bugs > tbody > tr > td:nth-of-type(3),
-    .bugs > tbody > tr > th:nth-of-type(2),
-    .bugs > tbody > tr > th:nth-of-type(3) {
-      text-align: center !important;
-    }
-
-    /* use small-cap alternate glyphs */
-    .smallcaps {
-      font-feature-settings: "smcp" on;
-    }
-
-    /* convert both upper and lowercase to small caps (affects punctuation also) */
-    .allsmallcaps { font-feature-settings: "c2sc", "smcp"; }
-
-    /* enable historical forms */
-    .hist { font-feature-settings: "hist"; }
-
     /* disable common ligatures, usually on by default */
     .noligs { font-feature-settings: "liga" 0; }
-
-    /* enable tabular (monospaced) figures */
-    td.tabular { font-feature-settings: "tnum"; }
-
-    /* enable automatic fractions */
-    .fractions { font-feature-settings: "frac"; }
-
-    /* use the second available swash character */
-    .swash { font-feature-settings: "swsh" 2; }
-
-    /* enable stylistic set 7 */
-    .fancystyle {
-      font-family: Gabriola; /* available on Windows 7, and on Mac OS */
-      font-feature-settings: "ss07";
-    }
-
-    .microlight {
-      font-family: monospace;
-      white-space: pre;
-      background-color: transparent;
-      color: #C4E4E8;
-      font-size: 3vh;
-      padding: 20px !important;
-      margin: 40px 0 !important;
-      background-color: rgba(255,255,255,.08);
-      border-radius: 3px;
-    }
 
     .slide {
       background-color: #2b2e3b !important;
@@ -145,7 +85,7 @@
 
     .point .middle {
       display: flex;
-      max-width: 40vw;
+      max-width: 50vw;
       margin: auto;
       margin-top: 7vh;
       padding: 1.618em;
@@ -414,9 +354,9 @@
         <li class="electron">Expect to buy TWO certificates.</li>
         <li>Expect to pay $110/yr (after tax) for an Apple Developer License.</li>
         <li>Expect to pay $60-250/yr for basic Windows Code Signing Certificate.</li>
-        <li>Expect to pay $100-500/yr for Extended Validation Windows Code Signing Certificate (Authneticode).</li>
+        <li>Expect to pay $100-500/yr for Extended Validation Windows Code Signing Certificate (Authenticode).</li>
         <li class="electron">Expect painful CI/CD with EV certificates.</li>
-        <li class="electron">Avoid Comodo/SSLStart, Buy Digicert, Use massive MS discount.</li>
+        <li class="electron">Avoid StartSSL, Buy Digicert, Use massive MS discount.</li>
       </ul>
     </section>
   </section>
