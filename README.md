@@ -3,6 +3,7 @@
 - When: March 22, 2017
 - Livestream: [YouTube Archive](https://youtu.be/KsoNGVScd_c?t=890)
 - [Meetup Event Page](https://www.meetup.com/bleeding-edge-web/events/238430935/)
+- [Presentation Slides](https://coreybutler.github.io/talk-electron-fenix/slides/2017/03-mar-electron/)
 
 [![Deploy on Fenix](https://cdn.author.io/fenix/smallbadge.png)](https://goo.gl/6LdPZw)
 
