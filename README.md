@@ -3,9 +3,11 @@
 - When: March 22, 2017
 - [Meetup Event Page](https://www.meetup.com/bleeding-edge-web/events/238430935/)
 
-**Video:**
+**Video Archive:**
 - [Bleeding Edge Web (Brian Moeskau)](https://www.youtube.com/watch?v=KsoNGVScd_c&t=1325s) | [Slides](http://edgeatx.github.io/slides/2017/03-mar/)
 - [Electron + Fenix (Corey Butler)](https://www.youtube.com/watch?v=KsoNGVScd_c&t=2630s) | [Slides](https://coreybutler.github.io/talk-electron-fenix/slides/2017/03-mar-electron/)
+
+---
 
 [![Deploy on Fenix](https://cdn.author.io/fenix/smallbadge.png)](https://goo.gl/6LdPZw)
 
